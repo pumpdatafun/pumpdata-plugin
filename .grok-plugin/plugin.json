@@ -1,0 +1,13 @@
+{
+  "name": "pumpdata",
+  "version": "1.0.0",
+  "description": "pumpdata: base rates, wallet records since day one, launch records and an honest replay for pump.fun coins, from every PumpSwap trade, ever, via the hosted pumpdata.fun MCP server and skill. Read-only data; paid tools settle a USDC payment signed by the user's own x402 wallet, nothing is charged without `payment`; no key or account. Not affiliated with pump.fun.",
+  "author": {
+    "name": "pumpdatafun",
+    "url": "https://pumpdata.fun"
+  },
+  "homepage": "https://pumpdata.fun",
+  "repository": "https://github.com/pumpdatafun/pumpdata-plugin",
+  "license": "MIT",
+  "keywords": ["pumpdata", "pumpdata.fun", "pump data", "pumpdata mcp"]
+}
